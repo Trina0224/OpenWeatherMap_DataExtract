@@ -1,0 +1,19 @@
+JSON File Read/Write
+
+https://stackabuse.com/reading-and-writing-json-files-with-node-js/
+https://stackoverflow.com/questions/36856232/write-add-data-in-json-file-using-node-js
+
+Web Bulb Calculator
+https://www.omnicalculator.com/physics/wet-bulb
+
+
+Formula:
+Tw = T * arctan[0.151977 * (rh% + 8.313659)^(1/2)] + arctan(T + rh%) - arctan(rh% - 1.676331) + 0.00391838 *(rh%)^(3/2) * arctan(0.023101 * rh%) - 4.686035
+Tw,T is C degree.
+rh% is 00~100 number.
+
+
+Dew Point
+https://iridl.ldeo.columbia.edu/dochelp/QA/Basic/dewpoint.html
+Td = T - ((100 - RH)/5.)
+Td, T is in Kelvin degree.
